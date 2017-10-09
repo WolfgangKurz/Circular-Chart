@@ -1,3 +1,11 @@
+/*!
+ * Circular-Chart
+ * Version: 1.0.0
+ *
+ * Copyright 2017 Wolfgang Kurz
+ * Released under the MIT license
+ * https://github.com/WolfgangKurz/Circular-Chart
+ */
 "use strict";
 !function(){
 	window.circular = (function(){
